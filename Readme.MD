@@ -1,7 +1,6 @@
 
-# ClimaGuard
+# Weather Whiz
 
-![ClimaGuard](./path/to/image.png) <!-- Update with the actual path to the image -->
 
 ## Overview
 
